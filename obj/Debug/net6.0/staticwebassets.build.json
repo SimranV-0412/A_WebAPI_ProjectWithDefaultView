@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dpkgKfqQEk4fBqA33wAfMNnHdqIUmlL5gZMARDtbD1U=",
+  "Source": "taskWebtel",
+  "BasePath": "_content/taskWebtel",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
